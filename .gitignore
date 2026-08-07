@@ -1,3 +1,57 @@
+# Environment
 .env
+#.env.*
+
+# Virtual Environment
 .venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Ruff
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local databases
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Temporary
+temp/
+tmp/
 test.py
