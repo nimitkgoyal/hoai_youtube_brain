@@ -16,40 +16,13 @@ __pycache__/
 logs/
 *.log
 
-# Pytest
-.pytest_cache/
-
-# MyPy
-.mypy_cache/
-
-# Ruff
-.ruff_cache/
-
-# Coverage
-.coverage
-htmlcov/
-
 # IDE
 .vscode/
 .idea/
 
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-
-# Local databases
+# Databases
 *.sqlite
 *.db
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Build
-dist/
-build/
-*.egg-info/
 
 # Temporary
 temp/
